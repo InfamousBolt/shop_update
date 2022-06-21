@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "20987748914",
+    "project_id": "mothering-shop",
+    "storage_bucket": "mothering-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20987748914:android:6cbb4103b6d2998308122b",
+        "android_client_info": {
+          "package_name": "com.example.mothering_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20987748914-s6bltcel53rmcljb71431v2vismpuc2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mothering_shop",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
+          }
+        },
+        {
+          "client_id": "20987748914-v9a5c762ha0sb842ms4f003r3fckidk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mothering_shop",
+            "certificate_hash": "6012b2806467356d8c950559a8df0ae94e95d14a"
+          }
+        },
+        {
+          "client_id": "20987748914-onp0ifq1sbi9lit5v7mjveqrt8eobb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-6D6Bi5SSnFCoWrkOBTxvkPv45mJOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20987748914-onp0ifq1sbi9lit5v7mjveqrt8eobb5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20987748914-i7coo8s15cas4gb4vvj3p3uia08hb1g2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.motheringshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20987748914:android:cc29cb0fc0f273ef08122b",
+        "android_client_info": {
+          "package_name": "com.motheringshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20987748914-8acnkqu741743j7gs1iack7r9jrq46al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motheringshop",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
+          }
+        },
+        {
+          "client_id": "20987748914-n25lv5d4v0bgm7pttnjgto00bh3cr3f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motheringshop",
+            "certificate_hash": "6012b2806467356d8c950559a8df0ae94e95d14a"
+          }
+        },
+        {
+          "client_id": "20987748914-onp0ifq1sbi9lit5v7mjveqrt8eobb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-6D6Bi5SSnFCoWrkOBTxvkPv45mJOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20987748914-onp0ifq1sbi9lit5v7mjveqrt8eobb5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20987748914-i7coo8s15cas4gb4vvj3p3uia08hb1g2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.motheringshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
